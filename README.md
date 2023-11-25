@@ -5,22 +5,15 @@
 Hello! I'm Yuxiao Hua, an automation undergraduate student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
 My research interests include: 
-
 - autoencoder based anomaly detection
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuaYuXiao&repo=Unsupervised-Fault-Detection-System-in-Elevators-Using-Autoencoders)
-  
 - dynamic obstacle avoidance for UAVs
-  
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuaYuXiao&repo=UAV-Obstacle-Avoidance-System-for-Complex-Environment-Based-on-A-and-Other-Algorithms)
-
 - mobile robot SLAM and navigation
-  
 - robotic arm visual servoing
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuaYuXiao&repo=Adaptive-Vision-Servo-for-Robotic-Arm-Automatic-Gripping-System)
-
 - digital twin networked control
+
+<!--
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuaYuXiao&repo=Adaptive-Vision-Servo-for-Robotic-Arm-Automatic-Gripping-System)
+-->
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaYuXiao)](https://github.com/anuraghazra/github-readme-stats)
