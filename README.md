@@ -9,8 +9,6 @@ My research interests include:
 - digital twin networked control
 - robotic arm visual servoing
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaYuXiao)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Languages
 ![Static Badge](https://img.shields.io/badge/Python-3.11.5-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-14-blue?logo=cplusplus)
@@ -84,8 +82,5 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/PUBG-_-blue?logo=pubg)
 ![Static Badge](https://img.shields.io/badge/Tripadvisor-_-blue?logo=tripadvisor)
 
-## Others
-![Static Badge](https://img.shields.io/badge/Shenzhen_Metro-_-blue?logo=shenzhenmetro)
-![Static Badge](https://img.shields.io/badge/TED-_-blue?logo=ted)
-![Static Badge](https://img.shields.io/badge/DJI-_-blue?logo=dji)
-![Static Badge](https://img.shields.io/badge/Huawei-_-blue?logo=huawei)	
+## 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaYuXiao)](https://github.com/anuraghazra/github-readme-stats)
