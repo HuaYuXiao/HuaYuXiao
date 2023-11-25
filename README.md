@@ -37,7 +37,7 @@ My research interests include:
 ## Platforms
 ![Static Badge](https://img.shields.io/badge/Ubuntu-22.04-blue?logo=ubuntu)
 ![Static Badge](https://img.shields.io/badge/macOS-14.1.1-blue?logo=macos)
-![Static Badge](https://img.shields.io/badge/Windows_11-_-blue?logo=windows11)
+![Static Badge](https://img.shields.io/badge/Windows_11-23H2-blue?logo=windows11)
 ![Static Badge](https://img.shields.io/badge/Windows_10-22H2-blue?logo=windows10)
 
 ## IDEs
