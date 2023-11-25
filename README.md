@@ -1,6 +1,6 @@
 # Hey bro 👋🏻
 
-Hello! I'm Hua Yuxiao, an automation undergraduate student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
+Hello! I'm Yuxiao Hua, an automation undergraduate student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
 My research interests include: 
 - [autoencoder based anomaly detection](https://github.com/HuaYuXiao/Unsupervised-Fault-Detection-System-in-Elevators-Using-Autoencoders)
