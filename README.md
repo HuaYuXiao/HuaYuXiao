@@ -1,12 +1,12 @@
-# Hi there👋🏻
+# Hey bro 👋🏻
 
-Hello! I'm Hua Yuxiao, an automation undergraduate student at South University of Science and Technology of China. 
+Hello! I'm Hua Yuxiao, an automation undergraduate student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
 My research interests include: 
-- autoencoder based anomaly detection
-- dynamic obstacle avoidance for UAVs
+- [autoencoder based anomaly detection](https://github.com/HuaYuXiao/Unsupervised-Fault-Detection-System-in-Elevators-Using-Autoencoders)
+- [dynamic obstacle avoidance for UAVs](https://github.com/HuaYuXiao/UAV-Obstacle-Avoidance-System-for-Complex-Environment-Based-on-A-and-Other-Algorithms)
 - mobile robot SLAM and navigation
-- robotic arm visual servoing
+- [robotic arm visual servoing](https://github.com/HuaYuXiao/Adaptive-Vision-Servo-for-Robotic-Arm-Automatic-Gripping-System)
 - digital twin networked control
 
 <!--
