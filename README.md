@@ -25,16 +25,15 @@
 ![Static Badge](https://img.shields.io/badge/Ubuntu-22.04-blue?logo=ubuntu)
 ![Static Badge](https://img.shields.io/badge/macOS-Sonama-blue?logo=macos)
 ![Static Badge](https://img.shields.io/badge/Windows_11-_-blue?logo=windows11)
-![Static Badge](https://img.shields.io/badge/Windows_10-_-blue?logo=windows10)
+![Static Badge](https://img.shields.io/badge/Windows_10-22H2-blue?logo=windows10)
 
 ## IDEs
 ![Static Badge](https://img.shields.io/badge/CLion-2023.2.2-blue?logo=clion)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio-2022-blue?logo=visualstudio)
 ![Static Badge](https://img.shields.io/badge/PyCharm-2023.2.5-blue?logo=pycharm)
-![Static Badge](https://img.shields.io/badge/CLion-2023.2.2-blue?logo=clion)
 ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-_-blue?logo=intellijidea)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-1.84.2-blue?logo=visualstudiocode)
-![Static Badge](https://img.shields.io/badge/RStudio-_-blue?logo=rstudio)
+![Static Badge](https://img.shields.io/badge/RStudio-2023.09.1-blue?logo=rstudio)
 ![Static Badge](https://img.shields.io/badge/Eclipse_IDE-_-blue?logo=eclipseide)
 
 ## Tools
@@ -58,7 +57,7 @@
 ![Static Badge](https://img.shields.io/badge/Altium_Designer-_-blue?logo=altiumdesigner)
 ![Static Badge](https://img.shields.io/badge/KiCad-_-blue?logo=kicad)
 ![Static Badge](https://img.shields.io/badge/Android_Studio-_-blue?logo=androidstudio)
-![Static Badge](https://img.shields.io/badge/Vivado-2023.2-blue?logo=intellijidea)
+![Static Badge](https://img.shields.io/badge/Vivado-2023.2-blue?logo=xilinx)
 
 ## Media
 ![Static Badge](https://img.shields.io/badge/WeChat-3.8.5-blue?logo=wechat)
