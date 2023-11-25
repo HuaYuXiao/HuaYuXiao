@@ -3,21 +3,28 @@
 Hello! I'm Hua Yuxiao, an automation undergraduate student at South University of Science and Technology of China. 
 
 My research interests include: 
-- self-encoder anomaly detection
-- dynamic obstacle avoidance for drones
-- mobile robot navigation
-- digital twin networked control
+- autoencoder based anomaly detection
+- dynamic obstacle avoidance for UAVs
+- mobile robot SLAM and navigation
 - robotic arm visual servoing
+- digital twin networked control
+
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaYuXiao)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HuaYuXiao&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages
 ![Static Badge](https://img.shields.io/badge/Python-3.11.5-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-14-blue?logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/C-_-blue?logo=c)
 ![Static Badge](https://img.shields.io/badge/Matlab-2023b-blue)
 ![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
-![Static Badge](https://img.shields.io/badge/Java-_-blue)
-![Static Badge](https://img.shields.io/badge/R-4.3.2-blue?logo=r)
+![Static Badge](https://img.shields.io/badge/Verilog-_-blue)
 ![Static Badge](https://img.shields.io/badge/CMake-3.26.4-blue?logo=cmake)
+![Static Badge](https://img.shields.io/badge/Java-_-blue)
+![Static Badge](https://img.shields.io/badge/C-_-blue?logo=c)
+![Static Badge](https://img.shields.io/badge/R-4.3.2-blue?logo=r)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuaYuXiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,9 +35,8 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/YOLO-v8-blue?logo=yolo)
 
 ## Platforms
-![Static Badge](https://img.shields.io/badge/Linux-blue?logo=linux)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-22.04-blue?logo=ubuntu)
-![Static Badge](https://img.shields.io/badge/macOS-Sonama-blue?logo=macos)
+![Static Badge](https://img.shields.io/badge/macOS-14.1.1-blue?logo=macos)
 ![Static Badge](https://img.shields.io/badge/Windows_11-_-blue?logo=windows11)
 ![Static Badge](https://img.shields.io/badge/Windows_10-22H2-blue?logo=windows10)
 
@@ -83,4 +89,4 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Tripadvisor-_-blue?logo=tripadvisor)
 
 ## 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaYuXiao)](https://github.com/anuraghazra/github-readme-stats)
+
