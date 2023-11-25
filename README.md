@@ -1,5 +1,14 @@
 # Hi there👋🏻
 
+Hello! I'm Hua Yuxiao, an automation undergraduate student at South University of Science and Technology of China. 
+
+My research interests include: 
+- self-encoder anomaly detection
+- dynamic obstacle avoidance for drones
+- mobile robot navigation
+- digital twin networked control
+- robotic arm visual servoing
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaYuXiao)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
