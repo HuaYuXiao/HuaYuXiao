@@ -40,6 +40,7 @@
 ## Tools
 ![Static Badge](https://img.shields.io/badge/VMware-_-blue?logo=vmware)
 ![Static Badge](https://img.shields.io/badge/OpenAI-_-blue?logo=openai)
+![Static Badge](https://img.shields.io/badge/GitHub_Copilot-1.4.2-blue?logo=githubcopilot)
 ![Static Badge](https://img.shields.io/badge/Github_Desktop-3.3.5-blue)
 ![Static Badge](https://img.shields.io/badge/Anaconda-23.7.4-blue?logo=anaconda)
 ![Static Badge](https://img.shields.io/badge/Google_Scholar-_-blue?logo=googlescholar)
