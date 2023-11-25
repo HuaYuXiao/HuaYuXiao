@@ -81,12 +81,4 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Tencent_QQ-_-blue?logo=tencentqq)
 ![Static Badge](https://img.shields.io/badge/TikTok-_-blue?logo=tiktok)
 
-## Entertainments
-![Static Badge](https://img.shields.io/badge/KFC-_-blue?logo=kfc)
-![Static Badge](https://img.shields.io/badge/Starbucks-_-blue?logo=starbucks)
-![Static Badge](https://img.shields.io/badge/Minecraft-_-blue?logo=minecraft)
-![Static Badge](https://img.shields.io/badge/PUBG-_-blue?logo=pubg)
-![Static Badge](https://img.shields.io/badge/Tripadvisor-_-blue?logo=tripadvisor)
-
-## 
 
