@@ -41,23 +41,21 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Windows_10-22H2-blue?logo=windows10)
 
 ## IDEs
-![Static Badge](https://img.shields.io/badge/CLion-2023.2.2-blue?logo=clion)
-![Static Badge](https://img.shields.io/badge/Visual_Studio-2022-blue?logo=visualstudio)
-![Static Badge](https://img.shields.io/badge/PyCharm-2023.2.5-blue?logo=pycharm)
+![Static Badge](https://img.shields.io/badge/CLion-_-blue?logo=clion)
+![Static Badge](https://img.shields.io/badge/PyCharm-_-blue?logo=pycharm)
+![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-_-blue?logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-_-blue?logo=intellijidea)
-![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-1.84.2-blue?logo=visualstudiocode)
-![Static Badge](https://img.shields.io/badge/RStudio-2023.09.1-blue?logo=rstudio)
+![Static Badge](https://img.shields.io/badge/Visual_Studio-_-blue?logo=visualstudio)
+![Static Badge](https://img.shields.io/badge/RStudio-_-blue?logo=rstudio)
 ![Static Badge](https://img.shields.io/badge/Eclipse_IDE-_-blue?logo=eclipseide)
 
 ## Tools
-![Static Badge](https://img.shields.io/badge/VMware-_-blue?logo=vmware)
 ![Static Badge](https://img.shields.io/badge/OpenAI-_-blue?logo=openai)
-![Static Badge](https://img.shields.io/badge/GitHub_Copilot-1.4.2-blue?logo=githubcopilot)
-![Static Badge](https://img.shields.io/badge/Github_Desktop-3.3.5-blue)
-![Static Badge](https://img.shields.io/badge/Anaconda-23.7.4-blue?logo=anaconda)
+![Static Badge](https://img.shields.io/badge/GitHub_Copilot-_-blue?logo=githubcopilot)
+![Static Badge](https://img.shields.io/badge/Github_Desktop-_-blue)
+![Static Badge](https://img.shields.io/badge/Anaconda-_-blue?logo=anaconda)
 ![Static Badge](https://img.shields.io/badge/Google_Scholar-_-blue?logo=googlescholar)
-![Static Badge](https://img.shields.io/badge/Homebrew-4.1.21-blue?logo=homebrew)	
-![Static Badge](https://img.shields.io/badge/AdGuard-4.2.209-blue?logo=adguard)
+![Static Badge](https://img.shields.io/badge/AdGuard-_-blue?logo=adguard)
 
 ## Editors
 ![Static Badge](https://img.shields.io/badge/LaTeX-_-blue?logo=latex)
@@ -66,14 +64,16 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Notion-_-blue?logo=notion)
 
 ## Softwares
+![Static Badge](https://img.shields.io/badge/VMware-_-blue?logo=vmware)
+![Static Badge](https://img.shields.io/badge/NoMachine-_-blue)
+![Static Badge](https://img.shields.io/badge/Android_Studio-_-blue?logo=androidstudio)
+![Static Badge](https://img.shields.io/badge/Vivado-_-blue?logo=xilinx)
 ![Static Badge](https://img.shields.io/badge/Wireshark-_-blue?logo=wireshark)
 ![Static Badge](https://img.shields.io/badge/Altium_Designer-_-blue?logo=altiumdesigner)
 ![Static Badge](https://img.shields.io/badge/KiCad-_-blue?logo=kicad)
-![Static Badge](https://img.shields.io/badge/Android_Studio-_-blue?logo=androidstudio)
-![Static Badge](https://img.shields.io/badge/Vivado-2023.2-blue?logo=xilinx)
 
 ## Media
-![Static Badge](https://img.shields.io/badge/WeChat-3.8.5-blue?logo=wechat)
+![Static Badge](https://img.shields.io/badge/WeChat-_-blue?logo=wechat)
 ![Static Badge](https://img.shields.io/badge/YouTube-_-blue?logo=youtube)
 ![Static Badge](https://img.shields.io/badge/Bilibili-_-blue?logo=bilibili)
 ![Static Badge](https://img.shields.io/badge/LinkedIn-_-blue?logo=linkedin)
