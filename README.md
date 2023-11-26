@@ -76,6 +76,8 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Altium_Designer-_-blue?logo=altiumdesigner)
 ![Static Badge](https://img.shields.io/badge/KiCad-_-blue?logo=kicad)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HuaYuXiao&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Media
 ![Static Badge](https://img.shields.io/badge/WeChat-_-green?logo=wechat)
 ![Static Badge](https://img.shields.io/badge/YouTube-_-red?logo=youtube)
@@ -85,5 +87,4 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Tencent_QQ-_-blue?logo=tencentqq)
 ![Static Badge](https://img.shields.io/badge/TikTok-_-blue?logo=tiktok)
 
-## 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HuaYuXiao&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
