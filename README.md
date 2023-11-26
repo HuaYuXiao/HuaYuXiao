@@ -11,6 +11,15 @@ My research interests include:
 - robotic arm visual servoing
 - digital twin networked control
 
+## Media
+![Static Badge](https://img.shields.io/badge/WeChat-_-green?logo=wechat)
+![Static Badge](https://img.shields.io/badge/Tencent_QQ-_-blue?logo=tencentqq)
+![Static Badge](https://img.shields.io/badge/Bilibili-_-pink?logo=bilibili)
+![Static Badge](https://img.shields.io/badge/YouTube-_-red?logo=youtube)
+![Static Badge](https://img.shields.io/badge/LinkedIn-_-blue?logo=linkedin)
+![Static Badge](https://img.shields.io/badge/TikTok-_-blue?logo=tiktok)
+![Static Badge](https://img.shields.io/badge/Sina_Weibo-_-red?logo=sinaweibo)
+
 <!--
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuaYuXiao&repo=Adaptive-Vision-Servo-for-Robotic-Arm-Automatic-Gripping-System)
 -->
@@ -61,12 +70,6 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Google_Scholar-_-blue?logo=googlescholar)
 ![Static Badge](https://img.shields.io/badge/AdGuard-_-green?logo=adguard)
 
-## Editors
-![Static Badge](https://img.shields.io/badge/LaTeX-_-blue?logo=latex)
-![Static Badge](https://img.shields.io/badge/Overleaf-_-green?logo=overleaf)
-![Static Badge](https://img.shields.io/badge/Markdown-_-blue?logo=markdown)
-![Static Badge](https://img.shields.io/badge/Notion-_-blue?logo=notion)
-
 ## Softwares
 ![Static Badge](https://img.shields.io/badge/VMware-_-blue?logo=vmware)
 ![Static Badge](https://img.shields.io/badge/NoMachine-_-red)
@@ -78,13 +81,8 @@ My research interests include:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HuaYuXiao&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Media
-![Static Badge](https://img.shields.io/badge/WeChat-_-green?logo=wechat)
-![Static Badge](https://img.shields.io/badge/YouTube-_-red?logo=youtube)
-![Static Badge](https://img.shields.io/badge/Bilibili-_-pink?logo=bilibili)
-![Static Badge](https://img.shields.io/badge/LinkedIn-_-blue?logo=linkedin)
-![Static Badge](https://img.shields.io/badge/Sina_Weibo-_-red?logo=sinaweibo)
-![Static Badge](https://img.shields.io/badge/Tencent_QQ-_-blue?logo=tencentqq)
-![Static Badge](https://img.shields.io/badge/TikTok-_-blue?logo=tiktok)
-
-
+## Editors
+![Static Badge](https://img.shields.io/badge/LaTeX-_-blue?logo=latex)
+![Static Badge](https://img.shields.io/badge/Overleaf-_-green?logo=overleaf)
+![Static Badge](https://img.shields.io/badge/Markdown-_-blue?logo=markdown)
+![Static Badge](https://img.shields.io/badge/Notion-_-blue?logo=notion)
