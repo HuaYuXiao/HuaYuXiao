@@ -31,7 +31,7 @@ My research interests include:
 ## Languages
 ![Static Badge](https://img.shields.io/badge/Python-3.11.5-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-14-blue?logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/Matlab-2023b-red)
+![Static Badge](https://img.shields.io/badge/Matlab-2023b-salmon)
 ![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
 ![Static Badge](https://img.shields.io/badge/Verilog-_-blue)
 ![Static Badge](https://img.shields.io/badge/CMake-3.26.4-green?logo=cmake)
@@ -65,18 +65,18 @@ My research interests include:
 ## Tools
 ![Static Badge](https://img.shields.io/badge/OpenAI-_-green?logo=openai)
 ![Static Badge](https://img.shields.io/badge/GitHub_Copilot-_-blue?logo=githubcopilot)
-![Static Badge](https://img.shields.io/badge/Github_Desktop-_-grape)
-![Static Badge](https://img.shields.io/badge/Anaconda-_-blue?logo=anaconda)
+![Static Badge](https://img.shields.io/badge/Github_Desktop-_-violet)
+![Static Badge](https://img.shields.io/badge/Anaconda-_-green?logo=anaconda)
 ![Static Badge](https://img.shields.io/badge/Google_Scholar-_-blue?logo=googlescholar)
 ![Static Badge](https://img.shields.io/badge/AdGuard-_-green?logo=adguard)
 
 ## Softwares
-![Static Badge](https://img.shields.io/badge/VMware-_-blue?logo=vmware)
+![Static Badge](https://img.shields.io/badge/VMware-_-red?logo=vmware)
 ![Static Badge](https://img.shields.io/badge/NoMachine-_-red)
 ![Static Badge](https://img.shields.io/badge/Android_Studio-_-blue?logo=androidstudio)
 ![Static Badge](https://img.shields.io/badge/Vivado-_-green?logo=xilinx)
 ![Static Badge](https://img.shields.io/badge/Wireshark-_-blue?logo=wireshark)
-![Static Badge](https://img.shields.io/badge/Altium_Designer-_-blue?logo=altiumdesigner)
+![Static Badge](https://img.shields.io/badge/Altium_Designer-_-yellow?logo=altiumdesigner)
 ![Static Badge](https://img.shields.io/badge/KiCad-_-blue?logo=kicad)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HuaYuXiao&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -84,5 +84,5 @@ My research interests include:
 ## Editors
 ![Static Badge](https://img.shields.io/badge/LaTeX-_-blue?logo=latex)
 ![Static Badge](https://img.shields.io/badge/Overleaf-_-green?logo=overleaf)
-![Static Badge](https://img.shields.io/badge/Markdown-_-blue?logo=markdown)
-![Static Badge](https://img.shields.io/badge/Notion-_-blue?logo=notion)
+![Static Badge](https://img.shields.io/badge/Markdown-_-white?logo=markdown)
+![Static Badge](https://img.shields.io/badge/Notion-_-white?logo=notion)
