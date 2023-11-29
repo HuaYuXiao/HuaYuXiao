@@ -31,10 +31,10 @@ My research interests include:
 ## Languages
 ![Static Badge](https://img.shields.io/badge/Python-3.11.5-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-14-blue?logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/Matlab-2023b-blue)
+![Static Badge](https://img.shields.io/badge/Matlab-2023b-red)
 ![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
 ![Static Badge](https://img.shields.io/badge/Verilog-_-blue)
-![Static Badge](https://img.shields.io/badge/CMake-3.26.4-blue?logo=cmake)
+![Static Badge](https://img.shields.io/badge/CMake-3.26.4-green?logo=cmake)
 ![Static Badge](https://img.shields.io/badge/Java-_-blue)
 ![Static Badge](https://img.shields.io/badge/C-_-blue?logo=c)
 ![Static Badge](https://img.shields.io/badge/R-4.3.2-blue?logo=r)
