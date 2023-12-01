@@ -6,12 +6,12 @@ Hello! I'm Yuxiao Hua, an automation undergraduate student at [Southern Universi
 
 My research interests include: 
 - autoencoder based anomaly detection
-- dynamic obstacle avoidance for UAVs
+- 🛸 dynamic obstacle avoidance for UAVs
 - mobile robot SLAM and navigation
-- robotic arm visual servoing
+- 🦾 robotic arm visual servoing
 - digital twin networked control
 
-## Media
+## 📱 Media
 ![Static Badge](https://img.shields.io/badge/WeChat-_-07C160?logo=wechat)
 ![Static Badge](https://img.shields.io/badge/Tencent_QQ-_-EB1923?logo=tencentqq)
 ![Static Badge](https://img.shields.io/badge/Bilibili-_-00A1D6?logo=bilibili)
@@ -28,7 +28,7 @@ My research interests include:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaYuXiao)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## Languages
+## 👨‍💻 Languages
 ![Static Badge](https://img.shields.io/badge/Python-3.11.5-3776AB?logo=python)
 ![Static Badge](https://img.shields.io/badge/Jupyter--F37626?logo=jupyter)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-14-00599C?logo=cplusplus)
@@ -36,7 +36,7 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
 ![Static Badge](https://img.shields.io/badge/Verilog-_-blue)
 ![Static Badge](https://img.shields.io/badge/CMake-3.26.4-064F8C?logo=cmake)
-![Static Badge](https://img.shields.io/badge/Java-_-blue)
+![Static Badge](https://img.shields.io/badge/♨️Java--blue)
 ![Static Badge](https://img.shields.io/badge/C-_-A8B9CC?logo=c)
 ![Static Badge](https://img.shields.io/badge/R-4.3.2-276DC3?logo=r)
 
