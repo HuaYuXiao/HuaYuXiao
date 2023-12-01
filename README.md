@@ -5,11 +5,11 @@
 Hello! I'm Yuxiao Hua, an automation undergraduate student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
 My research interests include: 
-- autoencoder based anomaly detection
 - 🛸 dynamic obstacle avoidance for UAVs
-- mobile robot SLAM and navigation
-- 🦾 robotic arm visual servoing
+- autoencoder based anomaly detection
+- 🤖 mobile robot SLAM and navigation
 - digital twin networked control
+- 🦾 robotic arm visual servoing
 
 ## 📱 Media
 ![Static Badge](https://img.shields.io/badge/WeChat-_-07C160?logo=wechat)
@@ -78,8 +78,6 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Cisco-_-1BA0D7?logo=cisco)
 ![Static Badge](https://img.shields.io/badge/Vivado-_-green?logo=xilinx)
 ![Static Badge](https://img.shields.io/badge/Wireshark-_-1679A7?logo=wireshark)
-![Static Badge](https://img.shields.io/badge/Altium_Designer-_-A5915F?logo=altiumdesigner)
-![Static Badge](https://img.shields.io/badge/KiCad-_-314CB0?logo=kicad)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HuaYuXiao&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
