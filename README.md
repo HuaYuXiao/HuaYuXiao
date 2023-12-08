@@ -1,8 +1,10 @@
 # Hey bro 👋🏻
 
+<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=HuaYuXiao.HuaYuXiao&left_color=green&right_color=red)
+-->
 
-Hello! I'm Yuxiao Hua, an automation undergraduate student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
+I'm Yuxiao Hua, an automation undergraduate student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
 My research interests include: 
 - 🛸 dynamic obstacle avoidance for UAVs
