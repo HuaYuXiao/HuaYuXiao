@@ -36,11 +36,9 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-14-00599C?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/Matlab-2023b-salmon)
 ![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
-![Static Badge](https://img.shields.io/badge/Verilog-_-blue)
-![Static Badge](https://img.shields.io/badge/CMake-3.26.4-064F8C?logo=cmake)
-![Static Badge](https://img.shields.io/badge/♨️Java--blue)
+![Static Badge](https://img.shields.io/badge/Java--blue)
 ![Static Badge](https://img.shields.io/badge/C-_-A8B9CC?logo=c)
-![Static Badge](https://img.shields.io/badge/R-4.3.2-276DC3?logo=r)
+![Static Badge](https://img.shields.io/badge/CMake-3.26.4-064F8C?logo=cmake)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuaYuXiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -48,7 +46,7 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/ROS-noetic-22314E?logo=ros)
 ![Static Badge](https://img.shields.io/badge/OpenCV-4.8.1__4-5C3EE8?logo=opencv)
 ![Static Badge](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?logo=pytorch)
-![Static Badge](https://img.shields.io/badge/YOLO-v8-blue?logo=yolo)
+![Static Badge](https://img.shields.io/badge/OpenAI-_-412991?logo=openai)
 
 ## Platforms
 ![Static Badge](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu)
@@ -62,11 +60,9 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-_-007ACC?logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-_-000000?logo=intellijidea)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio-_-5C2D91?logo=visualstudio)
-![Static Badge](https://img.shields.io/badge/RStudio-_-75AADB?logo=rstudio)
 ![Static Badge](https://img.shields.io/badge/Eclipse_IDE-_-2C2255?logo=eclipseide)
 
 ## Tools
-![Static Badge](https://img.shields.io/badge/OpenAI-_-412991?logo=openai)
 ![Static Badge](https://img.shields.io/badge/GitHub_Copilot-_-blue?logo=githubcopilot)
 ![Static Badge](https://img.shields.io/badge/Github_Desktop-_-violet)
 ![Static Badge](https://img.shields.io/badge/Anaconda-_-44A833?logo=anaconda)
