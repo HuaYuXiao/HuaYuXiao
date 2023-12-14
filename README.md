@@ -13,6 +13,7 @@ My research interests include:
 - digital twin networked control
 - 🦾 robotic arm visual servoing
 
+<!--
 ## 📱 Media
 ![Static Badge](https://img.shields.io/badge/WeChat-_-07C160?logo=wechat)
 ![Static Badge](https://img.shields.io/badge/Tencent_QQ-_-EB1923?logo=tencentqq)
@@ -21,6 +22,7 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/LinkedIn-_-0A66C2?logo=linkedin)
 ![Static Badge](https://img.shields.io/badge/TikTok-_-000000?logo=tiktok)
 ![Static Badge](https://img.shields.io/badge/Sina_Weibo-_-E6162D?logo=sinaweibo)
+-->
 
 <!--
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuaYuXiao&repo=Adaptive-Vision-Servo-for-Robotic-Arm-Automatic-Gripping-System)
@@ -69,6 +71,8 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Google_Scholar-_-4285F4?logo=googlescholar)
 ![Static Badge](https://img.shields.io/badge/AdGuard-_-68BC71?logo=adguard)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HuaYuXiao&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Softwares
 ![Static Badge](https://img.shields.io/badge/VMware-_-607078?logo=vmware)
 ![Static Badge](https://img.shields.io/badge/NoMachine-_-red)
@@ -76,8 +80,6 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Cisco-_-1BA0D7?logo=cisco)
 ![Static Badge](https://img.shields.io/badge/Vivado-_-green?logo=xilinx)
 ![Static Badge](https://img.shields.io/badge/Wireshark-_-1679A7?logo=wireshark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HuaYuXiao&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Editors
 ![Static Badge](https://img.shields.io/badge/LaTeX-_-008080?logo=latex)
