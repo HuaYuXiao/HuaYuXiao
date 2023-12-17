@@ -46,8 +46,9 @@ My research interests include:
 
 ## Packages
 ![Static Badge](https://img.shields.io/badge/ROS-noetic-22314E?logo=ros)
-![Static Badge](https://img.shields.io/badge/OpenCV-4.8.1__4-5C3EE8?logo=opencv)
 ![Static Badge](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?logo=pytorch)
+![Static Badge](https://img.shields.io/badge/TensorFlow-_-FF6F00?logo=tensorflow)
+![Static Badge](https://img.shields.io/badge/OpenCV-4.8.1__4-5C3EE8?logo=opencv)
 ![Static Badge](https://img.shields.io/badge/OpenAI-_-412991?logo=openai)
 
 ## Platforms
