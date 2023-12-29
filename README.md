@@ -52,7 +52,7 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/OpenAI-_-412991?logo=openai)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HuaYuXiao&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HuaYuXiao)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Platforms
