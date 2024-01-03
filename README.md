@@ -4,14 +4,16 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=HuaYuXiao.HuaYuXiao&left_color=green&right_color=red)
 -->
 
-I'm Eason Hua, an automation undergraduate student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
+I'm Eason Hua, an undergraduate student major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121) at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
+<!--
 My research interests include: 
 - 🛸 dynamic obstacle avoidance for UAVs
 - autoencoder based anomaly detection
 - 🤖 mobile robot SLAM and navigation
 - digital twin networked control
 - 🦾 robotic arm visual servoing
+-->
 
 <!--
 ## 📱 Media
@@ -62,6 +64,7 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Windows_10-22H2-0078D6?logo=windows10)
 
 
+<!--
 ## IDEs
 ![Static Badge](https://img.shields.io/badge/CLion-_-000000?logo=clion)
 ![Static Badge](https://img.shields.io/badge/PyCharm-_-000000?logo=pycharm)
@@ -78,11 +81,11 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/GitHub_Copilot-_-blue?logo=githubcopilot)
 ![Static Badge](https://img.shields.io/badge/Anaconda-_-44A833?logo=anaconda)
 ![Static Badge](https://img.shields.io/badge/Google_Scholar-_-4285F4?logo=googlescholar)
-<!--
-![Static Badge](https://img.shields.io/badge/AdGuard-_-68BC71?logo=adguard)
--->
 
-<!--
+![Static Badge](https://img.shields.io/badge/AdGuard-_-68BC71?logo=adguard)
+
+
+
 ## Softwares
 ![Static Badge](https://img.shields.io/badge/VMware-_-607078?logo=vmware)
 ![Static Badge](https://img.shields.io/badge/NoMachine-_-red)
@@ -97,4 +100,4 @@ My research interests include:
 ![Static Badge](https://img.shields.io/badge/Overleaf-_-47A141?logo=overleaf)
 ![Static Badge](https://img.shields.io/badge/Markdown-_-000000?logo=markdown)
 ![Static Badge](https://img.shields.io/badge/Notion-_-000000?logo=notion)
--->
+
