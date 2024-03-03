@@ -8,7 +8,7 @@ I'm Eason Hua, an undergraduate student major in [automation](https://sdim.suste
 
 <!--
 My research interests include: 
-- 🛸 dynamic obstacle avoidance for UAVs
+- 🛸 [UAV-Dynamic-Obstacle-Avoidance](https://github.com/HuaYuXiao/UAV-Dynamic-Obstacle-Avoidance)
 - autoencoder based anomaly detection
 - 🤖 mobile robot SLAM and navigation
 - digital twin networked control
@@ -37,7 +37,7 @@ My research interests include:
 ## 👨‍💻 Languages
 ![Static Badge](https://img.shields.io/badge/Python-3.11.5-3776AB?logo=python)
 ![Static Badge](https://img.shields.io/badge/Matlab-2023b-salmon)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-14-00599C?logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
 ![Static Badge](https://img.shields.io/badge/Java--blue)
 ![Static Badge](https://img.shields.io/badge/C-_-A8B9CC?logo=c)
@@ -47,7 +47,7 @@ My research interests include:
 
 
 ## Packages
-![Static Badge](https://img.shields.io/badge/ROS-humble-22314E?logo=ros)
+![Static Badge](https://img.shields.io/badge/ROS-melodic-22314E?logo=ros)
 ![Static Badge](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?logo=pytorch)
 ![Static Badge](https://img.shields.io/badge/OpenCV-4.8.1__4-5C3EE8?logo=opencv)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-_-FF6F00?logo=tensorflow)
@@ -58,7 +58,7 @@ My research interests include:
 
 
 ## Platforms
-![Static Badge](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu)
+![Static Badge](https://img.shields.io/badge/Ubuntu-18.04-E95420?logo=ubuntu)
 ![Static Badge](https://img.shields.io/badge/macOS-14.1.1-000000?logo=macos)
 ![Static Badge](https://img.shields.io/badge/Windows_11-23H2-0078D4?logo=windows11)
 ![Static Badge](https://img.shields.io/badge/Windows_10-22H2-0078D6?logo=windows10)
