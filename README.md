@@ -36,7 +36,7 @@ My research interests include:
 
 ## 👨‍💻 Languages
 ![Static Badge](https://img.shields.io/badge/Python-3.11.5-3776AB?logo=python)
-![Static Badge](https://img.shields.io/badge/Matlab-2023b-salmon)
+![Static Badge](https://img.shields.io/badge/MATLAB-2023b-salmon)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
 ![Static Badge](https://img.shields.io/badge/Java--blue)
@@ -49,7 +49,7 @@ My research interests include:
 ## Packages
 ![Static Badge](https://img.shields.io/badge/ROS-melodic-22314E?logo=ros)
 ![Static Badge](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?logo=pytorch)
-![Static Badge](https://img.shields.io/badge/OpenCV-4.8.1__4-5C3EE8?logo=opencv)
+![Static Badge](https://img.shields.io/badge/OpenCV-4.6.0-5C3EE8?logo=opencv)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-_-FF6F00?logo=tensorflow)
 ![Static Badge](https://img.shields.io/badge/OpenAI-_-412991?logo=openai)
 
