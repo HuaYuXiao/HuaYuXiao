@@ -59,6 +59,7 @@ My research interests include:
 
 ## Platforms
 ![Static Badge](https://img.shields.io/badge/Ubuntu-18.04-E95420?logo=ubuntu)
+![Static Badge](https://img.shields.io/badge/Debian-12-A81D33?logo=debian)
 ![Static Badge](https://img.shields.io/badge/macOS-14.1.1-000000?logo=macos)
 ![Static Badge](https://img.shields.io/badge/Windows_11-23H2-0078D4?logo=windows11)
 ![Static Badge](https://img.shields.io/badge/Windows_10-22H2-0078D6?logo=windows10)
