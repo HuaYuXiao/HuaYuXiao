@@ -4,23 +4,31 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=HuaYuXiao.HuaYuXiao&left_color=green&right_color=red)
 -->
 
-I'm Eason Hua, an undergraduate student major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121) at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
+I'm **Eason Hua**, an **undergraduate student** major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121) at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
-My research interests include: 
+
+## My research interests
 - **UAV** control, localization, mapping, navigation
 - autoencoder based anomaly detection
 - **mobile robot** SLAM and navigation
 - **digital twin** networked control
 - **robotic arm** visual servo control
 
-You can reach me via: 
+
+## You can reach me via (with a click)
+[![Static Badge](https://img.shields.io/badge/Instagram-_-EB1923?logo=instagram)](https://www.instagram.com/hyx020222/)
+![Static Badge](https://img.shields.io/badge/WhatsApp-_-EB1923?logo=whatsapp)
+[![Static Badge](https://img.shields.io/badge/X-_-EB1923?logo=x)](https://twitter.com/hyx020222)
 ![Static Badge](https://img.shields.io/badge/WeChat-_-07C160?logo=wechat)
 ![Static Badge](https://img.shields.io/badge/Tencent_QQ-_-EB1923?logo=tencentqq)
+<!--
 ![Static Badge](https://img.shields.io/badge/LinkedIn-_-0A66C2?logo=linkedin)
+-->
 
-My channel: 
-![Static Badge](https://img.shields.io/badge/Bilibili-_-00A1D6?logo=bilibili)
-![Static Badge](https://img.shields.io/badge/YouTube-_-FF0000?logo=youtube)
+
+## My video channel (with a click)
+[![Static Badge](https://img.shields.io/badge/Bilibili-_-00A1D6?logo=bilibili)](https://space.bilibili.com/407218928)
+[![Static Badge](https://img.shields.io/badge/YouTube-_-FF0000?logo=youtube)](https://www.youtube.com/channel/UCGiNhBW1Sw8UNZKzgvoxHow)
 <!--
 ![Static Badge](https://img.shields.io/badge/TikTok-_-000000?logo=tiktok)
 ![Static Badge](https://img.shields.io/badge/Sina_Weibo-_-E6162D?logo=sinaweibo)
@@ -34,16 +42,16 @@ My channel:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaYuXiao)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+
 ## 👨‍💻 Languages
+![Static Badge](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/Python-3.11.5-3776AB?logo=python)
 ![Static Badge](https://img.shields.io/badge/MATLAB-2023b-salmon)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
 ![Static Badge](https://img.shields.io/badge/Java--blue)
 ![Static Badge](https://img.shields.io/badge/C-_-A8B9CC?logo=c)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuaYuXiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuaYuXiao&langs_count=20&layout=compact)
 
 
 ## Packages
