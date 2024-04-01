@@ -6,22 +6,22 @@
 
 I'm Eason Hua, an undergraduate student major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121) at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
-<!--
 My research interests include: 
-- 🛸 [UAV-Dynamic-Obstacle-Avoidance](https://github.com/HuaYuXiao/UAV-Dynamic-Obstacle-Avoidance)
+- **UAV** control, localization, mapping, navigation
 - autoencoder based anomaly detection
-- 🤖 mobile robot SLAM and navigation
-- digital twin networked control
-- 🦾 robotic arm visual servoing
--->
+- **mobile robot** SLAM and navigation
+- **digital twin** networked control
+- **robotic arm** visual servo control
 
-<!--
-## 📱 Media
+You can reach me via: 
 ![Static Badge](https://img.shields.io/badge/WeChat-_-07C160?logo=wechat)
 ![Static Badge](https://img.shields.io/badge/Tencent_QQ-_-EB1923?logo=tencentqq)
+![Static Badge](https://img.shields.io/badge/LinkedIn-_-0A66C2?logo=linkedin)
+
+My channel: 
 ![Static Badge](https://img.shields.io/badge/Bilibili-_-00A1D6?logo=bilibili)
 ![Static Badge](https://img.shields.io/badge/YouTube-_-FF0000?logo=youtube)
-![Static Badge](https://img.shields.io/badge/LinkedIn-_-0A66C2?logo=linkedin)
+<!--
 ![Static Badge](https://img.shields.io/badge/TikTok-_-000000?logo=tiktok)
 ![Static Badge](https://img.shields.io/badge/Sina_Weibo-_-E6162D?logo=sinaweibo)
 -->
