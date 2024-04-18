@@ -8,7 +8,7 @@ I'm **Eason Hua**, an **undergraduate student** major in [automation](https://sd
 
 
 ## My research interests
-- **UAV** control, localization, mapping, navigation
+- **UAV** control, localization, mapping, planning, navigation
 - autoencoder based anomaly detection
 - **mobile robot** SLAM and navigation
 - **digital twin** networked control
@@ -44,7 +44,7 @@ I'm **Eason Hua**, an **undergraduate student** major in [automation](https://sd
 
 
 ## 👨‍💻 Languages
-![Static Badge](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-14-00599C?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/Python-3.11.5-3776AB?logo=python)
 ![Static Badge](https://img.shields.io/badge/MATLAB-2023b-salmon)
 ![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
