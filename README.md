@@ -1,21 +1,28 @@
-# Hey bro 👋🏻
+# Hey bro 👋🏻, I'm Eason Hua
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=HuaYuXiao.HuaYuXiao&left_color=green&right_color=red)
 -->
 
-I'm **Eason Hua**, an **undergraduate student** major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121) at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
+**PG student** major in  @ [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)
+**UG student** major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121) @ [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
 
-## My research interests
-- **UAV** control, localization, mapping, planning, navigation
+## Research Interests
+
+- **UAV** planning, SLAM
 - autoencoder based anomaly detection
 - **mobile robot** SLAM and navigation
 - **digital twin** networked control
 - **robotic arm** visual servo control
 
 
-## You can reach me via (with a click)
+## Social Media
+
+You can reach me with a click on following:
+
+[![Static Badge](https://img.shields.io/badge/Bilibili-_-00A1D6?logo=bilibili)](https://space.bilibili.com/407218928)
+[![Static Badge](https://img.shields.io/badge/YouTube-_-FF0000?logo=youtube)](https://www.youtube.com/channel/UCGiNhBW1Sw8UNZKzgvoxHow)
 [![Static Badge](https://img.shields.io/badge/Instagram-_-EB1923?logo=instagram)](https://www.instagram.com/hyx020222/)
 ![Static Badge](https://img.shields.io/badge/WhatsApp-_-EB1923?logo=whatsapp)
 [![Static Badge](https://img.shields.io/badge/X-_-EB1923?logo=x)](https://twitter.com/hyx020222)
@@ -25,25 +32,8 @@ I'm **Eason Hua**, an **undergraduate student** major in [automation](https://sd
 ![Static Badge](https://img.shields.io/badge/LinkedIn-_-0A66C2?logo=linkedin)
 -->
 
+## 👨‍💻 Skilled Languages
 
-## My video channel (with a click)
-[![Static Badge](https://img.shields.io/badge/Bilibili-_-00A1D6?logo=bilibili)](https://space.bilibili.com/407218928)
-[![Static Badge](https://img.shields.io/badge/YouTube-_-FF0000?logo=youtube)](https://www.youtube.com/channel/UCGiNhBW1Sw8UNZKzgvoxHow)
-<!--
-![Static Badge](https://img.shields.io/badge/TikTok-_-000000?logo=tiktok)
-![Static Badge](https://img.shields.io/badge/Sina_Weibo-_-E6162D?logo=sinaweibo)
--->
-
-<!--
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuaYuXiao&repo=Adaptive-Vision-Servo-for-Robotic-Arm-Automatic-Gripping-System)
--->
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaYuXiao)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-
-## 👨‍💻 Languages
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-14-00599C?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/Python-3.11.5-3776AB?logo=python)
 ![Static Badge](https://img.shields.io/badge/MATLAB-2023b-salmon)
@@ -53,28 +43,29 @@ I'm **Eason Hua**, an **undergraduate student** major in [automation](https://sd
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuaYuXiao&langs_count=20&layout=compact)
 
+Shit Windows, go fuck your self!
 
+<!--
 ## Packages
+
 ![Static Badge](https://img.shields.io/badge/ROS-melodic-22314E?logo=ros)
 ![Static Badge](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?logo=pytorch)
 ![Static Badge](https://img.shields.io/badge/OpenCV-4.6.0-5C3EE8?logo=opencv)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-_-FF6F00?logo=tensorflow)
 ![Static Badge](https://img.shields.io/badge/OpenAI-_-412991?logo=openai)
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=HuaYuXiao)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 ## Platforms
+
 ![Static Badge](https://img.shields.io/badge/Ubuntu-18.04-E95420?logo=ubuntu)
 ![Static Badge](https://img.shields.io/badge/Debian-12-A81D33?logo=debian)
 ![Static Badge](https://img.shields.io/badge/macOS-14.1.1-000000?logo=macos)
 ![Static Badge](https://img.shields.io/badge/Windows_11-23H2-0078D4?logo=windows11)
 ![Static Badge](https://img.shields.io/badge/Windows_10-22H2-0078D6?logo=windows10)
 
-
-<!--
 ## IDEs
+
 ![Static Badge](https://img.shields.io/badge/CLion-_-000000?logo=clion)
 ![Static Badge](https://img.shields.io/badge/PyCharm-_-000000?logo=pycharm)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-_-007ACC?logo=visualstudiocode)
@@ -82,8 +73,8 @@ I'm **Eason Hua**, an **undergraduate student** major in [automation](https://sd
 ![Static Badge](https://img.shields.io/badge/Visual_Studio-_-5C2D91?logo=visualstudio)
 ![Static Badge](https://img.shields.io/badge/Eclipse_IDE-_-2C2255?logo=eclipseide)
 
-
 ## Tools
+
 ![Static Badge](https://img.shields.io/badge/CMake-3.26.4-064F8C?logo=cmake)
 ![Static Badge](https://img.shields.io/badge/Jupyter--F37626?logo=jupyter)
 ![Static Badge](https://img.shields.io/badge/Github_Desktop-_-violet)
@@ -93,9 +84,8 @@ I'm **Eason Hua**, an **undergraduate student** major in [automation](https://sd
 
 ![Static Badge](https://img.shields.io/badge/AdGuard-_-68BC71?logo=adguard)
 
-
-
 ## Softwares
+
 ![Static Badge](https://img.shields.io/badge/VMware-_-607078?logo=vmware)
 ![Static Badge](https://img.shields.io/badge/NoMachine-_-red)
 ![Static Badge](https://img.shields.io/badge/Android_Studio-_-3DDC84?logo=androidstudio)
@@ -103,8 +93,8 @@ I'm **Eason Hua**, an **undergraduate student** major in [automation](https://sd
 ![Static Badge](https://img.shields.io/badge/Vivado-_-green?logo=xilinx)
 ![Static Badge](https://img.shields.io/badge/Wireshark-_-1679A7?logo=wireshark)
 
-
 ## Editors
+
 ![Static Badge](https://img.shields.io/badge/LaTeX-_-008080?logo=latex)
 ![Static Badge](https://img.shields.io/badge/Overleaf-_-47A141?logo=overleaf)
 ![Static Badge](https://img.shields.io/badge/Markdown-_-000000?logo=markdown)
