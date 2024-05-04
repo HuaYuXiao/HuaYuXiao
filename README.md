@@ -10,6 +10,8 @@
 
 ## Research Interests
 
+For details, click on badge!
+
 ### UAV path planning
 
 [![Static Badge](https://img.shields.io/badge/EGO--Planner-_)](https://github.com/HuaYuXiao/EGO-Planner)
@@ -31,7 +33,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-3.11.5-3776AB?logo=python)
 ![Static Badge](https://img.shields.io/badge/MATLAB-2023b-salmon)
 ![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
-![Static Badge](https://img.shields.io/badge/Java--blue)
+![Static Badge](https://img.shields.io/badge/Java-14-blue)
 ![Static Badge](https://img.shields.io/badge/C-_-A8B9CC?logo=c)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuaYuXiao&langs_count=20&layout=compact)
