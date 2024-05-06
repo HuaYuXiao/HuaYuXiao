@@ -26,6 +26,7 @@ For details, click on badge!
 
 [![Static Badge](https://img.shields.io/badge/FAST--LIO-_)](https://github.com/HuaYuXiao/FAST-LIO)
 [![Static Badge](https://img.shields.io/badge/ORB--SLAM3-_)](https://github.com/HuaYuXiao/ORB-SLAM3)
+[![Static Badge](https://img.shields.io/badge/VINS--Fusion-_)](https://github.com/HuaYuXiao/VINS-Fusion)
 
 ## 👨‍💻 Skilled Languages
 
