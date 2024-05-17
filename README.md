@@ -8,9 +8,7 @@
 - **UG student** major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121) @ [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
 
-## Research Interests
-
-For details, click on badge!
+## Research Interests (Click on Badge for Details)
 
 ### UAV path planning
 
@@ -36,8 +34,18 @@ For details, click on badge!
 ![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
 ![Static Badge](https://img.shields.io/badge/Java-14-blue)
 ![Static Badge](https://img.shields.io/badge/C-_-A8B9CC?logo=c)
+![Static Badge](https://img.shields.io/badge/HTML5-_-E34F26?logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS3-_-1572B6?logo=css3)
+![Static Badge](https://img.shields.io/badge/JavaScript-_-F7DF1E?logo=javascript)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuaYuXiao&langs_count=20&layout=compact)
+
+## Skilled Framework
+
+![Static Badge](https://img.shields.io/badge/Flask-3.0.3-000000?logo=flask)
+![Static Badge](https://img.shields.io/badge/Three.js-_-000000?logo=three.js)
+![Static Badge](https://img.shields.io/badge/OpenCV-4.6.0-5C3EE8?logo=opencv)
+
 
 ## Favorate Open Source Platform
 
@@ -45,7 +53,8 @@ For details, click on badge!
 [![Static Badge](https://img.shields.io/badge/XTDrone-C71D23?logo=gitee)](https://gitee.com/robin_shaun/XTDrone)
 [![Static Badge](https://img.shields.io/badge/HyperDrone-C71D23?logo=gitee)](https://gitee.com/Mbot/hyperdrone)
 
-## Social Media (Reach Me with a click!)
+
+## Social Media (Reach Me with a Click!)
 
 [![Static Badge](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili)](https://space.bilibili.com/407218928)
 [![Static Badge](https://img.shields.io/badge/YouTube-FF0000?logo=youtube)](https://www.youtube.com/channel/UCGiNhBW1Sw8UNZKzgvoxHow)
@@ -58,7 +67,7 @@ For details, click on badge!
 ![Static Badge](https://img.shields.io/badge/LinkedIn-_-0A66C2?logo=linkedin)
 -->
 
-Shit Windows 11, go fuck your self!
+PS: Shit Windows 11, go fuck your self!
 
 <!--
 ## Packages
