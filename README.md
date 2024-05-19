@@ -8,6 +8,20 @@
 - **UG student** major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121) @ [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
 
+## Social Media (Reach Me with a Click!)
+
+[![Static Badge](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili)](https://space.bilibili.com/407218928)
+[![Static Badge](https://img.shields.io/badge/YouTube-FF0000?logo=youtube)](https://www.youtube.com/channel/UCGiNhBW1Sw8UNZKzgvoxHow)
+![Static Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp)
+[![Static Badge](https://img.shields.io/badge/WeChat-07C160?logo=wechat)](img/wechat.png)
+[![Static Badge](https://img.shields.io/badge/Tencent_QQ-EB1923?logo=tencentqq)](img/tecentqq.png)
+[![Static Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/hyx020222/)
+[![Static Badge](https://img.shields.io/badge/X-000000?logo=x)](https://twitter.com/hyx020222)
+<!--
+![Static Badge](https://img.shields.io/badge/LinkedIn-_-0A66C2?logo=linkedin)
+-->
+
+
 ## Research Interests (Click on Badge for Details)
 
 ### UAV path planning
@@ -38,7 +52,10 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-_-1572B6?logo=css3)
 ![Static Badge](https://img.shields.io/badge/JavaScript-_-F7DF1E?logo=javascript)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuaYuXiao&langs_count=20&layout=compact)
+-->
+
 
 ## Skilled Framework
 
@@ -53,19 +70,6 @@
 [![Static Badge](https://img.shields.io/badge/XTDrone-C71D23?logo=gitee)](https://gitee.com/robin_shaun/XTDrone)
 [![Static Badge](https://img.shields.io/badge/HyperDrone-C71D23?logo=gitee)](https://gitee.com/Mbot/hyperdrone)
 
-
-## Social Media (Reach Me with a Click!)
-
-[![Static Badge](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili)](https://space.bilibili.com/407218928)
-[![Static Badge](https://img.shields.io/badge/YouTube-FF0000?logo=youtube)](https://www.youtube.com/channel/UCGiNhBW1Sw8UNZKzgvoxHow)
-![Static Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp)
-![Static Badge](https://img.shields.io/badge/WeChat-07C160?logo=wechat)
-![Static Badge](https://img.shields.io/badge/Tencent_QQ-EB1923?logo=tencentqq)
-[![Static Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/hyx020222/)
-[![Static Badge](https://img.shields.io/badge/X-000000?logo=x)](https://twitter.com/hyx020222)
-<!--
-![Static Badge](https://img.shields.io/badge/LinkedIn-_-0A66C2?logo=linkedin)
--->
 
 PS: Shit Windows 11, go fuck your self!
 
