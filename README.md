@@ -13,8 +13,8 @@
 [![Static Badge](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili)](https://space.bilibili.com/407218928)
 [![Static Badge](https://img.shields.io/badge/YouTube-FF0000?logo=youtube)](https://www.youtube.com/channel/UCGiNhBW1Sw8UNZKzgvoxHow)
 ![Static Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp)
-[![Static Badge](https://img.shields.io/badge/WeChat-07C160?logo=wechat)](img/wechat.png)
-[![Static Badge](https://img.shields.io/badge/Tencent_QQ-EB1923?logo=tencentqq)](img/tecentqq.png)
+[![Static Badge](https://img.shields.io/badge/WeChat-07C160?logo=wechat)](IMG_3319.jpeg)
+[![Static Badge](https://img.shields.io/badge/Tencent_QQ-EB1923?logo=tencentqq)](IMG_3320.jpeg)
 [![Static Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/hyx020222/)
 [![Static Badge](https://img.shields.io/badge/X-000000?logo=x)](https://twitter.com/hyx020222)
 <!--
