@@ -62,9 +62,12 @@
 
 ## Skilled Framework
 
+![Static Badge](https://img.shields.io/badge/ROS-noetic-22314E?logo=ros)
+![Static Badge](https://img.shields.io/badge/OpenCV-4.6.0-5C3EE8?logo=opencv)
+![Static Badge](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?logo=pytorch)
+![Static Badge](https://img.shields.io/badge/TensorFlow-_-FF6F00?logo=tensorflow)
 ![Static Badge](https://img.shields.io/badge/Flask-3.0.3-000000?logo=flask)
 ![Static Badge](https://img.shields.io/badge/Three.js-_-000000?logo=three.js)
-![Static Badge](https://img.shields.io/badge/OpenCV-4.6.0-5C3EE8?logo=opencv)
 
 
 ## Favorate Open Source Platform
@@ -79,10 +82,6 @@ PS: Shit Windows 11, go fuck your self!
 <!--
 ## Packages
 
-![Static Badge](https://img.shields.io/badge/ROS-melodic-22314E?logo=ros)
-![Static Badge](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?logo=pytorch)
-![Static Badge](https://img.shields.io/badge/OpenCV-4.6.0-5C3EE8?logo=opencv)
-![Static Badge](https://img.shields.io/badge/TensorFlow-_-FF6F00?logo=tensorflow)
 ![Static Badge](https://img.shields.io/badge/OpenAI-_-412991?logo=openai)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HuaYuXiao)](https://github.com/ryo-ma/github-profile-trophy)
