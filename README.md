@@ -8,39 +8,30 @@
 - **UG student** major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121) @ [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
 
-## Social Media (Reach Me with a Click!)
-
-[![Static Badge](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili)](https://space.bilibili.com/407218928)
-[![Static Badge](https://img.shields.io/badge/YouTube-FF0000?logo=youtube)](https://www.youtube.com/channel/UCGiNhBW1Sw8UNZKzgvoxHow)
-![Static Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp)
-[![Static Badge](https://img.shields.io/badge/WeChat-07C160?logo=wechat)](IMG_3319.jpeg)
-[![Static Badge](https://img.shields.io/badge/Tencent_QQ-EB1923?logo=tencentqq)](IMG_3320.jpeg)
-[![Static Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/hyx020222/)
-[![Static Badge](https://img.shields.io/badge/X-000000?logo=x)](https://twitter.com/hyx020222)
-<!--
-![Static Badge](https://img.shields.io/badge/LinkedIn-_-0A66C2?logo=linkedin)
--->
-
-
 ## Research Interests (Click on Badge for Details)
 
 ### UAV path planning
 
-[![Static Badge](https://img.shields.io/badge/EGO--Planner-_)](https://github.com/HuaYuXiao/EGO-Planner)
-[![Static Badge](https://img.shields.io/badge/Fast--Planner-_)](https://github.com/HuaYuXiao/Fast-Planner)
-[![Static Badge](https://img.shields.io/badge/TEB--Planner-_)](https://github.com/HuaYuXiao/TEB-Planner)
-[![Static Badge](https://img.shields.io/badge/PE--Planner-_)](https://github.com/HuaYuXiao/PE-Planner)
-[![Static Badge](https://img.shields.io/badge/Hybrid--A*--Search-_)](https://github.com/HuaYuXiao/Hybrid-AStar-Planner)
-[![Static Badge](https://img.shields.io/badge/A*--Search-_)](https://github.com/HuaYuXiao/AStar-Planner)
-[![Static Badge](https://img.shields.io/badge/APF-_)](https://github.com/HuaYuXiao/APF-Planner)
-[![Static Badge](https://img.shields.io/badge/VFH-_)](https://github.com/HuaYuXiao/VFH-Planner)
-
+[![Static Badge](https://img.shields.io/badge/EGO--Planner-green)](https://github.com/HuaYuXiao/EGO-Planner)
+[![Static Badge](https://img.shields.io/badge/Fast--Planner-green)](https://github.com/HuaYuXiao/Fast-Planner)
+[![Static Badge](https://img.shields.io/badge/TEB--Planner-yellow)](https://github.com/HuaYuXiao/TEB-Planner)
+[![Static Badge](https://img.shields.io/badge/PE--Planner-yellow)](https://github.com/HuaYuXiao/PE-Planner)
+[![Static Badge](https://img.shields.io/badge/Hybrid--A*--Search-green)](https://github.com/HuaYuXiao/Hybrid-AStar-Planner)
+[![Static Badge](https://img.shields.io/badge/A*--Search-green)](https://github.com/HuaYuXiao/AStar-Planner)
+[![Static Badge](https://img.shields.io/badge/APF-green)](https://github.com/HuaYuXiao/APF-Planner)
+[![Static Badge](https://img.shields.io/badge/VFH-red)](https://github.com/HuaYuXiao/VFH-Planner)
 
 ### UAV SLAM
 
-[![Static Badge](https://img.shields.io/badge/FAST--LIO-_)](https://github.com/HuaYuXiao/FAST-LIO)
-[![Static Badge](https://img.shields.io/badge/VINS--Fusion-_)](https://github.com/HuaYuXiao/VINS-Fusion)
-[![Static Badge](https://img.shields.io/badge/ORB--SLAM3-_)](https://github.com/HuaYuXiao/ORB-SLAM3)
+[![Static Badge](https://img.shields.io/badge/FAST--LIO-green)](https://github.com/HuaYuXiao/FAST-LIO)
+[![Static Badge](https://img.shields.io/badge/VINS--Fusion-green)](https://github.com/HuaYuXiao/VINS-Fusion)
+[![Static Badge](https://img.shields.io/badge/ORB--SLAM3-red)](https://github.com/HuaYuXiao/ORB-SLAM3)
+
+### Dense Reconstruction
+
+[![Static Badge](https://img.shields.io/badge/NeRF-yellow)](https://github.com/HuaYuXiao/EGO-Planner)
+[![Static Badge](https://img.shields.io/badge/MonoGS-yellow)](https://github.com/HuaYuXiao/MonoGS)
+[![Static Badge](https://img.shields.io/badge/RTAB--Map-green)](https://github.com/HuaYuXiao/RTAB-Map)
 
 
 ## 👨‍💻 Skilled Languages
@@ -70,7 +61,26 @@
 ![Static Badge](https://img.shields.io/badge/Three.js-_-000000?logo=three.js)
 
 
-## Favorate Open Source Platform
+## Social Media (Reach Me with a Click!)
+
+Inside of China mainland: 
+
+[![Static Badge](https://img.shields.io/badge/Bilibili-407218928-00A1D6?logo=bilibili)](https://space.bilibili.com/407218928)
+[![Static Badge](https://img.shields.io/badge/WeChat-hyx020222-07C160?logo=wechat)](IMG_3319.jpeg)
+[![Static Badge](https://img.shields.io/badge/Tencent_QQ-1628280289-EB1923?logo=tencentqq)](IMG_3320.jpeg)
+
+Ouside of China mainland: 
+
+[![Static Badge](https://img.shields.io/badge/YouTube-UCGiNhBW1Sw8UNZKzgvoxHow-FF0000?logo=youtube)](https://www.youtube.com/channel/UCGiNhBW1Sw8UNZKzgvoxHow)
+![Static Badge](https://img.shields.io/badge/WhatsApp-hyx020222-25D366?logo=whatsapp)
+[![Static Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/hyx020222/)
+[![Static Badge](https://img.shields.io/badge/X-hyx020222-000000?logo=x)](https://twitter.com/hyx020222)
+<!--
+![Static Badge](https://img.shields.io/badge/LinkedIn-_-0A66C2?logo=linkedin)
+-->
+
+
+## Frequently Used Open Source Platform
 
 [![Static Badge](https://img.shields.io/badge/Prometheus-181717?logo=github)](https://github.com/amov-lab/Prometheus)
 [![Static Badge](https://img.shields.io/badge/XTDrone-C71D23?logo=gitee)](https://gitee.com/robin_shaun/XTDrone)
