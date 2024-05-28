@@ -37,7 +37,7 @@
 ## 👨‍💻 Skilled Languages
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-14-00599C?logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/Python-3.11.5-3776AB?logo=python)
+![Static Badge](https://img.shields.io/badge/Python-3.8.10-3776AB?logo=python)
 ![Static Badge](https://img.shields.io/badge/MATLAB-2023b-salmon)
 ![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
 ![Static Badge](https://img.shields.io/badge/Java-14-blue)
