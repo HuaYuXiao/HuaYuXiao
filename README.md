@@ -14,24 +14,28 @@
 
 [![Static Badge](https://img.shields.io/badge/EGO--Planner-green)](https://github.com/HuaYuXiao/EGO-Planner)
 [![Static Badge](https://img.shields.io/badge/Fast--Planner-green)](https://github.com/HuaYuXiao/Fast-Planner)
-[![Static Badge](https://img.shields.io/badge/TEB--Planner-yellow)](https://github.com/HuaYuXiao/TEB-Planner)
-[![Static Badge](https://img.shields.io/badge/PE--Planner-yellow)](https://github.com/HuaYuXiao/PE-Planner)
+<!--[![Static Badge](https://img.shields.io/badge/TEB--Planner-yellow)](https://github.com/HuaYuXiao/TEB-Planner)-->
+<!--[![Static Badge](https://img.shields.io/badge/PE--Planner-yellow)](https://github.com/HuaYuXiao/PE-Planner)-->
 [![Static Badge](https://img.shields.io/badge/Hybrid--A*--Search-green)](https://github.com/HuaYuXiao/Hybrid-AStar-Planner)
 [![Static Badge](https://img.shields.io/badge/A*--Search-green)](https://github.com/HuaYuXiao/AStar-Planner)
 [![Static Badge](https://img.shields.io/badge/APF-green)](https://github.com/HuaYuXiao/APF-Planner)
-[![Static Badge](https://img.shields.io/badge/VFH-red)](https://github.com/HuaYuXiao/VFH-Planner)
+<!--[![Static Badge](https://img.shields.io/badge/VFH-red)](https://github.com/HuaYuXiao/VFH-Planner)-->
 
 ### UAV SLAM
 
 [![Static Badge](https://img.shields.io/badge/FAST--LIO-green)](https://github.com/HuaYuXiao/FAST-LIO)
 [![Static Badge](https://img.shields.io/badge/VINS--Fusion-green)](https://github.com/HuaYuXiao/VINS-Fusion)
-[![Static Badge](https://img.shields.io/badge/ORB--SLAM3-red)](https://github.com/HuaYuXiao/ORB-SLAM3)
+<!--[![Static Badge](https://img.shields.io/badge/ORB--SLAM3-red)](https://github.com/HuaYuXiao/ORB-SLAM3)-->
 
 ### Dense Reconstruction
 
 [![Static Badge](https://img.shields.io/badge/NeRF-yellow)](https://github.com/HuaYuXiao/EGO-Planner)
 [![Static Badge](https://img.shields.io/badge/MonoGS-yellow)](https://github.com/HuaYuXiao/MonoGS)
 [![Static Badge](https://img.shields.io/badge/RTAB--Map-green)](https://github.com/HuaYuXiao/RTAB-Map)
+
+### YOLO
+
+YOLOv2-tiny, YOLOv10
 
 
 ## 👨‍💻 Skilled Languages
