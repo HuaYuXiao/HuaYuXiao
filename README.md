@@ -14,18 +14,14 @@
 
 [![Static Badge](https://img.shields.io/badge/EGO--Planner-green)](https://github.com/HuaYuXiao/EGO-Planner)
 [![Static Badge](https://img.shields.io/badge/Fast--Planner-green)](https://github.com/HuaYuXiao/Fast-Planner)
-<!--[![Static Badge](https://img.shields.io/badge/TEB--Planner-yellow)](https://github.com/HuaYuXiao/TEB-Planner)-->
-<!--[![Static Badge](https://img.shields.io/badge/PE--Planner-yellow)](https://github.com/HuaYuXiao/PE-Planner)-->
 [![Static Badge](https://img.shields.io/badge/Hybrid--A*--Search-green)](https://github.com/HuaYuXiao/Hybrid-AStar-Planner)
 [![Static Badge](https://img.shields.io/badge/A*--Search-green)](https://github.com/HuaYuXiao/AStar-Planner)
 [![Static Badge](https://img.shields.io/badge/APF-green)](https://github.com/HuaYuXiao/APF-Planner)
-<!--[![Static Badge](https://img.shields.io/badge/VFH-red)](https://github.com/HuaYuXiao/VFH-Planner)-->
 
 ### UAV SLAM
 
 [![Static Badge](https://img.shields.io/badge/FAST--LIO-green)](https://github.com/HuaYuXiao/FAST-LIO)
 [![Static Badge](https://img.shields.io/badge/VINS--Fusion-green)](https://github.com/HuaYuXiao/VINS-Fusion)
-<!--[![Static Badge](https://img.shields.io/badge/ORB--SLAM3-red)](https://github.com/HuaYuXiao/ORB-SLAM3)-->
 
 ### Dense Reconstruction
 
@@ -43,12 +39,12 @@ YOLOv2-tiny, YOLOv10
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-14-00599C?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/Python-3.8.10-3776AB?logo=python)
 ![Static Badge](https://img.shields.io/badge/MATLAB-2023b-salmon)
-![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
+<!--![Static Badge](https://img.shields.io/badge/VHDL-_-blue)
 ![Static Badge](https://img.shields.io/badge/Java-14-blue)
 ![Static Badge](https://img.shields.io/badge/C-_-A8B9CC?logo=c)
 ![Static Badge](https://img.shields.io/badge/HTML5-_-E34F26?logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS3-_-1572B6?logo=css3)
-![Static Badge](https://img.shields.io/badge/JavaScript-_-F7DF1E?logo=javascript)
+![Static Badge](https://img.shields.io/badge/JavaScript-_-F7DF1E?logo=javascript)-->
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuaYuXiao&langs_count=20&layout=compact)
@@ -60,9 +56,9 @@ YOLOv2-tiny, YOLOv10
 ![Static Badge](https://img.shields.io/badge/ROS-noetic-22314E?logo=ros)
 ![Static Badge](https://img.shields.io/badge/OpenCV-4.6.0-5C3EE8?logo=opencv)
 ![Static Badge](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?logo=pytorch)
-![Static Badge](https://img.shields.io/badge/TensorFlow-_-FF6F00?logo=tensorflow)
+<!--![Static Badge](https://img.shields.io/badge/TensorFlow-_-FF6F00?logo=tensorflow)
 ![Static Badge](https://img.shields.io/badge/Flask-3.0.3-000000?logo=flask)
-![Static Badge](https://img.shields.io/badge/Three.js-_-000000?logo=three.js)
+![Static Badge](https://img.shields.io/badge/Three.js-_-000000?logo=three.js)-->
 
 
 ## Social Media (Reach Me with a Click!)
@@ -84,14 +80,12 @@ Ouside of China mainland:
 -->
 
 
-## Frequently Used Open Source Platform
+<!--## Frequently Used Open Source Platform
 
 [![Static Badge](https://img.shields.io/badge/Prometheus-181717?logo=github)](https://github.com/amov-lab/Prometheus)
 [![Static Badge](https://img.shields.io/badge/XTDrone-C71D23?logo=gitee)](https://gitee.com/robin_shaun/XTDrone)
-[![Static Badge](https://img.shields.io/badge/HyperDrone-C71D23?logo=gitee)](https://gitee.com/Mbot/hyperdrone)
+[![Static Badge](https://img.shields.io/badge/HyperDrone-C71D23?logo=gitee)](https://gitee.com/Mbot/hyperdrone)-->
 
-
-PS: Shit Windows 11, go fuck your self!
 
 <!--
 ## Packages
