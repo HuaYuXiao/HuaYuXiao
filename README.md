@@ -26,16 +26,16 @@
 ![Static Badge](https://img.shields.io/badge/C-_-A8B9CC?logo=c)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuaYuXiao&langs_count=20&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuaYuXiao&langs_count=20&layout=compact)-->
 
-## Skilled Framework
+<!--## Skilled Framework
 
 ![Static Badge](https://img.shields.io/badge/ROS-noetic-22314E?logo=ros)
 ![Static Badge](https://img.shields.io/badge/OpenCV-4.6.0-5C3EE8?logo=opencv)
 ![Static Badge](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?logo=pytorch)
 <!--![Static Badge](https://img.shields.io/badge/TensorFlow-_-FF6F00?logo=tensorflow)
 ![Static Badge](https://img.shields.io/badge/Flask-3.0.3-000000?logo=flask)
-![Static Badge](https://img.shields.io/badge/Three.js-_-000000?logo=three.js)-->
+![Static Badge](https://img.shields.io/badge/Three.js-_-000000?logo=three.js)-->-->
 
 ## Social Media (Reach Me with a Click!)
 
