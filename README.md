@@ -1,16 +1,13 @@
 # Hey bro 👋🏻, I'm Eason Hua
 
-- **PG student** @ [UESTC](https://en.uestc.edu.cn/)
-- **UG student** major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121) @ [SUSTech](https://www.sustech.edu.cn/en/). 
+**PG student** @ [UESTC](https://en.uestc.edu.cn/), **UG student** @ [SUSTech](https://www.sustech.edu.cn/en/) (major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121)). 
 
-
-## Research Interests
+## I've been working on:
 
 - Path Planning
-- SLAM (VIO)
+- SLAM (especially VIO)
 - Dense Reconstruction
 - Computer Vision
-
 
 ## Reach Me with a Click!
 
