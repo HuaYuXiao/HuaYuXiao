@@ -1,7 +1,7 @@
 # Hey bro 👋🏻, I'm Eason Hua
 
-- **PG student** @ [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)
-- **UG student** major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121) @ [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
+- **PG student** @ [UESTC](https://en.uestc.edu.cn/)
+- **UG student** major in [automation](https://sdim.sustech.edu.cn/index/lists?id=121) @ [SUSTech](https://www.sustech.edu.cn/en/). 
 
 
 ## Research Interests
