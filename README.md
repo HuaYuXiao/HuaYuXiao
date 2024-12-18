@@ -4,10 +4,9 @@
 
 ## I've been working on:
 
-- Path Planning
 - SLAM (especially VIO)
 - Dense Reconstruction
-- Computer Vision
+- Path Planning
 
 ## Reach Me with a Click!
 
